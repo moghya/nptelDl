@@ -1,0 +1,25 @@
+	body{
+		color: white;
+		background-image: url("bg.png");
+		width: 275px;
+	}
+	small,a{
+		color: #a5d6a7 ;
+		text-decoration: none;
+	}
+	small{
+		font-size: 0.5em;
+	}
+
+	div{
+		padding-top: 2%;
+		padding-bottom: 2%;
+	}
+
+	input{
+		margin-top: 1%;
+		margin-bottom: 1%;
+	}
+	h1{
+		text-align: center;	
+	}
